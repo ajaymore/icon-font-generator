@@ -1,0 +1,23 @@
+{
+  "name": "icon-font-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaymore/icon-font-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaymore/icon-font-generator/issues"
+  },
+  "homepage": "https://github.com/ajaymore/icon-font-generator#readme",
+  "dependencies": {
+    "oslllo-svg-fixer": "^2.2.0"
+  }
+}
